@@ -20,7 +20,7 @@ npx prisma generate
 
 # Prisma commands
 ```
-npx prisma init
+npx prisma init // iniciar un proyecto
 npx prisma migrate dev
 npx prisma generate
 ```
